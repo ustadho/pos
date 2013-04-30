@@ -19,7 +19,7 @@ org.eclipse.jdt.core.prefs
 target
 
 # Netbeans Ignore
-nbproject
+#nbproject
 build
 dist
 private
